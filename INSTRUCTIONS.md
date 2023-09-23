@@ -1,4 +1,3 @@
 # Possible instructions
 
-START
-END
+...
