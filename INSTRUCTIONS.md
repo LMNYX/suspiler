@@ -11,3 +11,5 @@
 | VOTE (VARIABLE) | Adds 1 to the variable |
 | DEFINE (...) (...) | Only available is DEFINE TASK (...), defines a loop |
 | DO (...) (ONCE) | Only available is DO TASK (...), add ONCE at the end to not loop. |
+| SUSSY BAKA | Enables debug mode. |
+| DUMP (VARIABLES/INSTRUCTIONS) | Prints everything. |
